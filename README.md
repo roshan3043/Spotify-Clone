@@ -1,5 +1,4 @@
-# Spotify Clone Website  &nbsp; [![](https://img.shields.io/badge/-HTML5-darkred?style=flat&logo=HTML5&logoColor=white)&nbsp; ![](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)&nbsp;![](https://img.shields.io/badge/-JavaScript-gold?style=flat&logo=JavaScript&logoColor=black)](https://github.com/AnshSinghSonkhia/40Pie-Music-Player-Website/blob/main/README.md)&nbsp;
-
+# Spotify Clone Website
 <b>Let's Connect: [LinkedIn](https://www.linkedin.com/in/roshan-s-baa7362a4/)</b>
 
 # Tech-Stack Used..
